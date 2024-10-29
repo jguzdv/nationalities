@@ -1,994 +1,2472 @@
 {
-    "AF": {
-        "de": "afghanisch",
-        "en": "Afghan"
-    },
-    "EG": {
-        "de": "ägyptisch",
-        "en": "Egyptian"
-    },
-    "AX": {
-        "de": "åländisch",
-        "en": "of the Åland Islands"
-    },
-    "AL": {
-        "de": "albanisch",
-        "en": "Albanian"
-    },
-    "DZ": {
-        "de": "algerisch",
-        "en": "Algerian"
-    },
-    "VI": {
-        "de": "der Amerikanischen Jungferninseln",
-        "en": "of the US Virgin Islands"
-    },
-    "AS": {
-        "de": "von Amerikanisch-Samoa",
-        "en": "American Samoan"
-    },
-    "AD": {
-        "de": "andorranisch",
-        "en": "Andorran"
-    },
-    "AO": {
-        "de": "angolanisch",
-        "en": "Angolan"
-    },
-    "AI": {
-        "de": "anguillanisch",
-        "en": "Anguillan"
-    },
-    "AQ": {
-        "de": "antarktisch",
-        "en": "Antarctic"
-    },
-    "AG": {
-        "de": "antiguanisch",
-        "en": "of Antigua and Barbuda"
-    },
-    "GQ": {
-        "de": "äquatorialguineisch",
-        "en": "of Equatorial Guinea"
-    },
-    "AR": {
-        "de": "argentinisch",
-        "en": "Argentine; Argentinian"
-    },
-    "AM": {
-        "de": "armenisch",
-        "en": "Armenian"
-    },
-    "AW": {
-        "de": "arubanisch",
-        "en": "Aruban"
-    },
-    "AZ": {
-        "de": "aserbaidschanisch",
-        "en": "Azerbaijani"
-    },
-    "ET": {
-        "de": "äthiopisch",
-        "en": "Ethiopian"
-    },
-    "AU": {
-        "de": "australisch",
-        "en": "Australian"
-    },
-    "BS": {
-        "de": "bahamaisch",
-        "en": "Bahamian"
-    },
-    "BH": {
-        "de": "bahrainisch",
-        "en": "Bahraini"
-    },
-    "BD": {
-        "de": "bangladeschisch",
-        "en": "Bangladeshi"
-    },
-    "BB": {
-        "de": "barbadisch",
-        "en": "Barbadian"
-    },
-    "BY": {
-        "de": "belarussisch",
-        "en": "Belarusian"
-    },
-    "BE": {
-        "de": "belgisch",
-        "en": "Belgian"
-    },
-    "BZ": {
-        "de": "belizisch",
-        "en": "Belizean"
-    },
-    "BJ": {
-        "de": "beninisch",
-        "en": "Beninese"
-    },
-    "BM": {
-        "de": "bermudisch",
-        "en": "Bermudian"
-    },
-    "BT": {
-        "de": "bhutanisch",
-        "en": "Bhutanese"
-    },
-    "BO": {
-        "de": "bolivianisch",
-        "en": "Bolivian"
-    },
-    "BA": {
-        "de": "bosnisch-herzegowinisch",
-        "en": "of Bosnia and Herzegovina"
-    },
-    "BW": {
-        "de": "botsuanisch",
-        "en": "Botswanan"
-    },
-    "BV": {
-        "de": "der Bouvetinsel",
-        "en": "of Bouvet Island"
-    },
-    "BR": {
-        "de": "brasilianisch",
-        "en": "Brazilian"
-    },
-    "IO": {
-        "de": "des Britischen Territoriums im Indischen Ozean",
-        "en": "of the British Indian Ocean Territory"
-    },
-    "VG": {
-        "de": "der Britischen Jungferninseln",
-        "en": "of the British Virgin Islands"
-    },
-    "BN": {
-        "de": "bruneiisch",
-        "en": "Bruneian"
-    },
-    "BG": {
-        "de": "bulgarisch",
-        "en": "Bulgarian"
-    },
-    "BF": {
-        "de": "burkinisch",
-        "en": "Burkinabe"
-    },
-    "BI": {
-        "de": "burundisch",
-        "en": "Burundian"
-    },
-    "CV": {
-        "de": "von Cabo Verde",
-        "en": "Cape Verdean"
-    },
-    "CL": {
-        "de": "chilenisch",
-        "en": "Chilean"
-    },
-    "CN": {
-        "de": "chinesisch",
-        "en": "Chinese"
-    },
-    "CP": {
-        "de": "von Clipperton",
-        "en": "of Clipperton Island"
-    },
-    "CK": {
-        "de": "der Cookinseln",
-        "en": "of the Cook Islands"
-    },
-    "CR": {
-        "de": "costa-ricanisch",
-        "en": "Costa Rican"
-    },
-    "CI": {
-        "de": "ivorisch",
-        "en": "Ivorian"
-    },
-    "CW": {
-        "de": "von Curaçao",
-        "en": "of Curaçao"
-    },
-    "DK": {
-        "de": "dänisch",
-        "en": "Danish"
-    },
-    "DE": {
-        "de": "deutsch",
-        "en": "German"
-    },
-    "DM": {
-        "de": "dominicanisch",
-        "en": "of Dominica"
-    },
-    "DO": {
-        "de": "dominikanisch",
-        "en": "Dominican"
-    },
-    "DJ": {
-        "de": "dschibutisch",
-        "en": "of Djibouti"
-    },
-    "EC": {
-        "de": "ecuadorianisch",
-        "en": "Ecuadorian"
-    },
-    "SV": {
-        "de": "salvadorianisch",
-        "en": "Salvadorian; Salvadoran"
-    },
-    "ER": {
-        "de": "eritreisch",
-        "en": "Eritrean"
-    },
-    "EE": {
-        "de": "estnisch",
-        "en": "Estonian"
-    },
-    "FK": {
-        "de": "falkländisch",
-        "en": "of the Falkland Islands"
-    },
-    "FO": {
-        "de": "färöisch",
-        "en": "Faroese"
-    },
-    "FJ": {
-        "de": "fidschianisch",
-        "en": "Fijian"
-    },
-    "FI": {
-        "de": "finnisch",
-        "en": "Finnish"
-    },
-    "FR": {
-        "de": "französisch",
-        "en": "French"
-    },
-    "TF": {
-        "de": "der Französischen Süd- und Antarktisgebiete",
-        "en": "of the French Southern and Antarctic Lands"
-    },
-    "GF": {
-        "de": "von Französisch-Guayana",
-        "en": "Guianese"
-    },
-    "PF": {
-        "de": "von Französisch-Polynesien",
-        "en": "Polynesian"
-    },
-    "GA": {
-        "de": "gabunisch",
-        "en": "Gabonese"
-    },
-    "GM": {
-        "de": "gambisch",
-        "en": "Gambian"
-    },
-    "GE": {
-        "de": "georgisch",
-        "en": "Georgian"
-    },
-    "GH": {
-        "de": "ghanaisch",
-        "en": "Ghanaian"
-    },
-    "GI": {
-        "de": "gibraltarisch",
-        "en": "Gibraltarian"
-    },
-    "GD": {
-        "de": "grenadisch",
-        "en": "Grenadian"
-    },
-    "GR": {
-        "de": "griechisch",
-        "en": "Greek"
-    },
-    "GL": {
-        "de": "grönländisch",
-        "en": "Greenlandic"
-    },
-    "GP": {
-        "de": "von Guadeloupe",
-        "en": "Guadeloupean"
-    },
-    "GU": {
-        "de": "guamisch",
-        "en": "Guamanian"
-    },
-    "GT": {
-        "de": "guatemaltekisch",
-        "en": "Guatemalan"
-    },
-    "GG": {
-        "de": "von Guernsey",
-        "en": "Guernsey"
-    },
-    "GN": {
-        "de": "guineisch",
-        "en": "Guinean"
-    },
-    "GW": {
-        "de": "guinea-bissauisch",
-        "en": "of Guinea-Bissau"
-    },
-    "GY": {
-        "de": "guyanisch",
-        "en": "Guyanese"
-    },
-    "HT": {
-        "de": "haitianisch",
-        "en": "Haitian"
-    },
-    "HM": {
-        "de": "von Heard und den McDonaldinseln",
-        "en": "of the Heard Island and McDonald Islands"
-    },
-    "VA": {
-        "de": "vatikanisch",
-        "en": "of the Holy See/of the Vatican"
-    },
-    "HN": {
-        "de": "honduranisch",
-        "en": "Honduran"
-    },
-    "HK": {
-        "de": "von Hongkong",
-        "en": "Hong Kong Chinese"
-    },
-    "IN": {
-        "de": "indisch",
-        "en": "Indian"
-    },
-    "ID": {
-        "de": "indonesisch",
-        "en": "Indonesian"
-    },
-    "IM": {
-        "de": "Manx",
-        "en": "Manx"
-    },
-    "IQ": {
-        "de": "irakisch",
-        "en": "Iraqi"
-    },
-    "IR": {
-        "de": "iranisch",
-        "en": "Iranian"
-    },
-    "IE": {
-        "de": "irisch",
-        "en": "Irish"
-    },
-    "IS": {
-        "de": "isländisch",
-        "en": "Icelandic"
-    },
-    "IL": {
-        "de": "israelisch",
-        "en": "Israeli"
-    },
-    "IT": {
-        "de": "italienisch",
-        "en": "Italian"
-    },
-    "JM": {
-        "de": "jamaikanisch",
-        "en": "Jamaican"
-    },
-    "JP": {
-        "de": "japanisch",
-        "en": "Japanese"
-    },
-    "YE": {
-        "de": "jemenitisch",
-        "en": "Yemeni"
-    },
-    "JE": {
-        "de": "von Jersey",
-        "en": "Jersey"
-    },
-    "JO": {
-        "de": "jordanisch",
-        "en": "Jordanian"
-    },
-    "KY": {
-        "de": "der Kaimaninseln",
-        "en": "Caymanian"
-    },
-    "KH": {
-        "de": "kambodschanisch",
-        "en": "Cambodian"
-    },
-    "CM": {
-        "de": "kamerunisch",
-        "en": "Cameroonian"
-    },
-    "CA": {
-        "de": "kanadisch",
-        "en": "Canadian"
-    },
-    "KZ": {
-        "de": "kasachisch",
-        "en": "Kazakh"
-    },
-    "QA": {
-        "de": "katarisch",
-        "en": "Qatari"
-    },
-    "KE": {
-        "de": "kenianisch",
-        "en": "Kenyan"
-    },
-    "KG": {
-        "de": "kirgisisch",
-        "en": "Kyrgyz"
-    },
-    "KI": {
-        "de": "kiribatisch",
-        "en": "Kiribatian"
-    },
-    "UM": {
-        "de": "der Kleineren Amerikanischen Überseeinseln",
-        "en": "—"
-    },
-    "CC": {
-        "de": "der Kokosinseln",
-        "en": "of the Cocos (Keeling) Islands"
-    },
-    "CO": {
-        "de": "kolumbianisch",
-        "en": "Colombian"
-    },
-    "KM": {
-        "de": "komorisch",
-        "en": "Comorian"
-    },
-    "CD": {
-        "de": "der Demokratischen Republik Kongo",
-        "en": "of the Democratic Republic of the Congo"
-    },
-    "CG": {
-        "de": "kongolesisch",
-        "en": "Congolese"
-    },
-    "HR": {
-        "de": "kroatisch",
-        "en": "Croatian"
-    },
-    "CU": {
-        "de": "kubanisch",
-        "en": "Cuban"
-    },
-    "KW": {
-        "de": "kuwaitisch",
-        "en": "Kuwaiti"
-    },
-    "LA": {
-        "de": "laotisch",
-        "en": "Lao; Laotian"
-    },
-    "LS": {
-        "de": "lesothisch",
-        "en": "of Lesotho"
-    },
-    "LV": {
-        "de": "lettisch",
-        "en": "Latvian"
-    },
-    "LB": {
-        "de": "libanesisch",
-        "en": "Lebanese"
-    },
-    "LR": {
-        "de": "liberianisch",
-        "en": "Liberian"
-    },
-    "LY": {
-        "de": "libysch",
-        "en": "Libyan"
-    },
-    "LI": {
-        "de": "liechtensteinisch",
-        "en": "of Liechtenstein"
-    },
-    "LT": {
-        "de": "litauisch",
-        "en": "Lithuanian"
-    },
-    "LU": {
-        "de": "luxemburgisch",
-        "en": "Luxembourgish"
-    },
-    "MO": {
-        "de": "von Macau",
-        "en": "Macanese"
-    },
-    "MG": {
-        "de": "madagassisch",
-        "en": "Malagasy"
-    },
-    "MW": {
-        "de": "malawisch",
-        "en": "Malawian"
-    },
-    "MY": {
-        "de": "malaysisch",
-        "en": "Malaysian"
-    },
-    "MV": {
-        "de": "maledivisch",
-        "en": "Maldivian"
-    },
-    "ML": {
-        "de": "malisch",
-        "en": "Malian"
-    },
-    "MT": {
-        "de": "maltesisch",
-        "en": "Maltese"
-    },
-    "MA": {
-        "de": "marokkanisch",
-        "en": "Moroccan"
-    },
-    "MH": {
-        "de": "marshallisch",
-        "en": "Marshallese"
-    },
-    "MQ": {
-        "de": "von Martinique",
-        "en": "Martinican"
-    },
-    "MR": {
-        "de": "mauretanisch",
-        "en": "Mauritanian"
-    },
-    "MU": {
-        "de": "mauritisch",
-        "en": "Mauritian"
-    },
-    "YT": {
-        "de": "mahorisch",
-        "en": "Mahoran"
-    },
-    "FY": {
-        "de": "der ehemaligen jugoslawischen&nbsp;Republik Mazedonien",
-        "en": "of the former Yugoslav Republic of Macedonia"
-    },
-    "MX": {
-        "de": "mexikanisch",
-        "en": "Mexican"
-    },
-    "FM": {
-        "de": "mikronesisch",
-        "en": "of Micronesia"
-    },
-    "MD": {
-        "de": "moldauisch",
-        "en": "Moldovan"
-    },
-    "MC": {
-        "de": "monegassisch",
-        "en": "Monegasque"
-    },
-    "MN": {
-        "de": "mongolisch",
-        "en": "Mongolian"
-    },
-    "ME": {
-        "de": "montenegrinisch",
-        "en": "Montenegrin"
-    },
-    "MS": {
-        "de": "von Montserrat",
-        "en": "Montserratian"
-    },
-    "MZ": {
-        "de": "mosambikanisch",
-        "en": "Mozambican"
-    },
-    "MM": {
-        "de": "von Myanmar/Birma",
-        "en": "of Myanmar/Burma "
-    },
-    "NA": {
-        "de": "namibisch",
-        "en": "Namibian"
-    },
-    "NR": {
-        "de": "nauruisch",
-        "en": "Nauruan"
-    },
-    "NP": {
-        "de": "nepalesisch",
-        "en": "Nepalese"
-    },
-    "NC": {
-        "de": "neukaledonisch",
-        "en": "New Caledonian"
-    },
-    "NZ": {
-        "de": "neuseeländisch",
-        "en": "of New Zealand"
-    },
-    "NI": {
-        "de": "nicaraguanisch",
-        "en": "Nicaraguan"
-    },
-    "NL": {
-        "de": "niederländisch",
-        "en": "Netherlands; Dutch"
-    },
-    "NE": {
-        "de": "nigrisch",
-        "en": "Nigerien"
-    },
-    "NG": {
-        "de": "nigerianisch",
-        "en": "Nigerian"
-    },
-    "NU": {
-        "de": "niueanisch",
-        "en": "Niuean"
-    },
-    "KP": {
-        "de": "der Demokratischen Volksrepublik Korea",
-        "en": "North Korean"
-    },
-    "MP": {
-        "de": "der Nördlichen Marianen",
-        "en": "of the Northern Mariana Islands"
-    },
-    "NF": {
-        "de": "der Norfolkinsel",
-        "en": "of Norfolk Island"
-    },
-    "NO": {
-        "de": "norwegisch",
-        "en": "Norwegian"
-    },
-    "OM": {
-        "de": "omanisch",
-        "en": "Omani"
-    },
-    "AT": {
-        "de": "österreichisch",
-        "en": "Austrian"
-    },
-    "PK": {
-        "de": "pakistanisch",
-        "en": "Pakistani"
-    },
-    "PW": {
-        "de": "palauisch",
-        "en": "Palauan"
-    },
-    "PA": {
-        "de": "panamaisch",
-        "en": "Panamanian"
-    },
-    "PG": {
-        "de": "papua-neuguineisch",
-        "en": "of Papua New Guinea"
-    },
-    "PY": {
-        "de": "paraguayisch",
-        "en": "Paraguayan"
-    },
-    "PE": {
-        "de": "peruanisch",
-        "en": "Peruvian"
-    },
-    "PH": {
-        "de": "philippinisch",
-        "en": "Philippine"
-    },
-    "PN": {
-        "de": "der Pitcairninseln",
-        "en": "Pitcairner"
-    },
-    "PL": {
-        "de": "polnisch",
-        "en": "Polish"
-    },
-    "PT": {
-        "de": "portugiesisch",
-        "en": "Portuguese"
-    },
-    "PR": {
-        "de": "puerto-ricanisch",
-        "en": "Puerto Rican"
-    },
-    "RE": {
-        "de": "von Réunion",
-        "en": "Reunionese"
-    },
-    "RW": {
-        "de": "ruandisch",
-        "en": "Rwandan; Rwandese"
-    },
-    "RO": {
-        "de": "rumänisch",
-        "en": "Romanian"
-    },
-    "RU": {
-        "de": "russisch",
-        "en": "Russian"
-    },
-    "SB": {
-        "de": "salomonisch",
-        "en": "of the Solomon Islands"
-    },
-    "ZM": {
-        "de": "sambisch",
-        "en": "Zambian"
-    },
-    "WS": {
-        "de": "samoanisch",
-        "en": "Samoan"
-    },
-    "SM": {
-        "de": "san-marinesisch",
-        "en": "of San Marino"
-    },
-    "ST": {
-        "de": "são-toméisch",
-        "en": "of São Tomé and Príncipe"
-    },
-    "SA": {
-        "de": "saudi-arabisch",
-        "en": "Saudi Arabian"
-    },
-    "SE": {
-        "de": "schwedisch",
-        "en": "Swedish"
-    },
-    "CH": {
-        "de": "schweizerisch",
-        "en": "Swiss"
-    },
-    "SN": {
-        "de": "senegalesisch",
-        "en": "Senegalese"
-    },
-    "RS": {
-        "de": "serbisch",
-        "en": "Serbian"
-    },
-    "SC": {
-        "de": "seychellisch",
-        "en": "of Seychelles"
-    },
-    "SL": {
-        "de": "sierra-leonisch",
-        "en": "Sierra Leonean"
-    },
-    "ZW": {
-        "de": "simbabwisch",
-        "en": "Zimbabwean"
-    },
-    "SG": {
-        "de": "singapurisch",
-        "en": "Singaporean"
-    },
-    "SK": {
-        "de": "slowakisch",
-        "en": "Slovak"
-    },
-    "SI": {
-        "de": "slowenisch",
-        "en": "Slovenian"
-    },
-    "SO": {
-        "de": "somalisch",
-        "en": "Somali; Somalian"
-    },
-    "ES": {
-        "de": "spanisch",
-        "en": "Spanish"
-    },
-    "LK": {
-        "de": "sri-lankisch",
-        "en": "Sri Lankan"
-    },
-    "BL": {
-        "de": "von St.&nbsp;Barthélemy",
-        "en": "of Saint Barthélemy"
-    },
-    "SH": {
-        "de": "von St.&nbsp;Helena, Ascension und Tristan da Cunha",
-        "en": "of Saint Helena, Ascension and Tristan da Cunha"
-    },
-    "KN": {
-        "de": "von St.&nbsp;Kitts und&nbsp;Nevis",
-        "en": "of Saint Kitts and Nevis"
-    },
-    "LC": {
-        "de": "lucianisch",
-        "en": "Saint Lucian"
-    },
-    "MF": {
-        "de": "von St.&nbsp;Martin",
-        "en": "of Saint Martin"
-    },
-    "SX": {
-        "de": "von Sint&nbsp;Maarten",
-        "en": "of Sint Maarten"
-    },
-    "PM": {
-        "de": "von St.&nbsp;Pierre und&nbsp;Miquelon",
-        "en": "of Saint Pierre and Miquelon"
-    },
-    "VC": {
-        "de": "vincentisch",
-        "en": "Vincentian; of Saint Vincent and the Grenadines"
-    },
-    "ZA": {
-        "de": "südafrikanisch",
-        "en": "South African"
-    },
-    "SD": {
-        "de": "sudanesisch",
-        "en": "Sudanese"
-    },
-    "GS": {
-        "de": "Südgeorgiens und&nbsp;der&nbsp;Südlichen Sandwichinseln",
-        "en": "of South Georgia and the South Sandwich Islands"
-    },
-    "KR": {
-        "de": "der Republik Korea",
-        "en": "South Korean"
-    },
-    "SS": {
-        "de": "südsudanesisch",
-        "en": "South Sudanese"
-    },
-    "SR": {
-        "de": "surinamisch",
-        "en": "Surinamese"
-    },
-    "SJ": {
-        "de": "von Svalbard, von&nbsp;Jan&nbsp;Mayen",
-        "en": "of Svalbard, of Jan Mayen"
-    },
-    "SZ": {
-        "de": "swasiländisch",
-        "en": "Swazi"
-    },
-    "SY": {
-        "de": "syrisch",
-        "en": "Syrian"
-    },
-    "TJ": {
-        "de": "tadschikisch",
-        "en": "Tajik"
-    },
-    "TW": {
-        "de": "taiwanisch",
-        "en": "Taiwanese"
-    },
-    "TZ": {
-        "de": "tansanisch",
-        "en": "Tanzanian"
-    },
-    "TH": {
-        "de": "thailändisch",
-        "en": "Thai"
-    },
-    "TL": {
-        "de": "timorisch",
-        "en": "East Timorese"
-    },
-    "TG": {
-        "de": "togoisch",
-        "en": "Togolese"
-    },
-    "TK": {
-        "de": "tokelauisch",
-        "en": "Tokelauan"
-    },
-    "TO": {
-        "de": "tongaisch",
-        "en": "Tongan"
-    },
-    "TT": {
-        "de": "von Trinidad und&nbsp;Tobago",
-        "en": "of Trinidad and&nbsp;Tobago"
-    },
-    "TD": {
-        "de": "tschadisch",
-        "en": "Chadian"
-    },
-    "CZ": {
-        "de": "tschechisch",
-        "en": "Czech"
-    },
-    "TN": {
-        "de": "tunesisch",
-        "en": "Tunisian"
-    },
-    "TR": {
-        "de": "türkisch",
-        "en": "Turkish"
-    },
-    "TM": {
-        "de": "turkmenisch",
-        "en": "Turkmen"
-    },
-    "TC": {
-        "de": "der Turks- und&nbsp;Caicosinseln",
-        "en": "of the Turks and Caicos Islands"
-    },
-    "TV": {
-        "de": "tuvaluisch",
-        "en": "Tuvaluan"
-    },
-    "UG": {
-        "de": "ugandisch",
-        "en": "Ugandan"
-    },
-    "UA": {
-        "de": "ukrainisch",
-        "en": "Ukrainian"
-    },
-    "HU": {
-        "de": "ungarisch",
-        "en": "Hungarian"
-    },
-    "UY": {
-        "de": "uruguayisch",
-        "en": "Uruguayan"
-    },
-    "UZ": {
-        "de": "usbekisch",
-        "en": "Uzbek"
-    },
-    "VU": {
-        "de": "vanuatuisch",
-        "en": "Vanuatuan"
-    },
-    "VE": {
-        "de": "venezolanisch",
-        "en": "Venezuelan"
-    },
-    "AE": {
-        "de": "der Vereinigten Arabischen Emirate",
-        "en": "Emirian"
-    },
-    "US": {
-        "de": "amerikanisch",
-        "en": "American; of the United States"
-    },
-    "GB": {
-        "de": "britisch",
-        "en": "British"
-    },
-    "VN": {
-        "de": "vietnamesisch",
-        "en": "Vietnamese"
-    },
-    "WF": {
-        "de": "von Wallis und Futuna",
-        "en": "of the Wallis and Futuna Islands"
-    },
-    "CX": {
-        "de": "der Weihnachtsinsel",
-        "en": "of Christmas Island"
-    },
-    "EH": {
-        "de": "saharauisch",
-        "en": "Sahrawi"
-    },
-    "CF": {
-        "de": "zentralafrikanisch",
-        "en": "Central African"
-    },
-    "CY": {
-        "de": "zyprisch",
-        "en": "Cypriot"
+  "AF": {
+    "nationality": {
+      "de": "afghanisch",
+      "en": "Afghan"
+    },
+    "Country": {
+      "de": "Afghanistan",
+      "en": "Afghanistan"
     }
+  },
+  "EG": {
+    "nationality": {
+      "de": "ägyptisch",
+      "en": "Egyptian"
+    },
+    "Country": {
+      "de": "Ägypten",
+      "en": "Egypt"
+    }
+  },
+  "AX": {
+    "nationality": {
+      "de": "åländisch",
+      "en": "of the Åland Islands"
+    },
+    "Country": {
+      "de": "Åland",
+      "en": "Åland"
+    }
+  },
+  "AL": {
+    "nationality": {
+      "de": "albanisch",
+      "en": "Albanian"
+    },
+    "Country": {
+      "de": "Albanien",
+      "en": "Albania"
+    }
+  },
+  "DZ": {
+    "nationality": {
+      "de": "algerisch",
+      "en": "Algerian"
+    },
+    "Country": {
+      "de": "Algerien",
+      "en": "Algeria"
+    }
+  },
+  "VI": {
+    "nationality": {
+      "de": "der Amerikanischen Jungferninseln",
+      "en": "of the US Virgin Islands"
+    },
+    "Country": {
+      "de": "Amerikanische Jungerferninseln",
+      "en": "US Virgin Islands"
+    }
+  },
+  "AS": {
+    "nationality": {
+      "de": "von Amerikanisch-Samoa",
+      "en": "American Samoan"
+    },
+    "Country": {
+      "de": "Amerikanisch-Samoa",
+      "en": "American Samoa"
+    }
+  },
+  "AD": {
+    "nationality": {
+      "de": "andorranisch",
+      "en": "Andorran"
+    },
+    "Country": {
+      "de": "Andorra",
+      "en": "Andorra"
+    }
+  },
+  "AO": {
+    "nationality": {
+      "de": "angolanisch",
+      "en": "Angolan"
+    },
+    "Country": {
+      "de": "Angola",
+      "en": "Angola"
+    }
+  },
+  "AI": {
+    "nationality": {
+      "de": "anguillanisch",
+      "en": "Anguillan"
+    },
+    "Country": {
+      "de": "Anguila",
+      "en": "Anguila"
+    }
+  },
+  "AQ": {
+    "nationality": {
+      "de": "antarktisch",
+      "en": "Antarctic"
+    },
+    "Country": {
+      "de": "Antarktis",
+      "en": "Antarctica"
+    }
+  },
+  "AG": {
+    "nationality": {
+      "de": "antiguanisch",
+      "en": "of Antigua and Barbuda"
+    },
+    "Country": {
+      "de": "Antigua und Barbuda",
+      "en": "Antigua and Barbuda"
+    }
+  },
+  "GQ": {
+    "nationality": {
+      "de": "äquatorialguineisch",
+      "en": "of Equatorial Guinea"
+    },
+    "Country": {
+      "de": "Äquatorialguinea",
+      "en": "Equatorial Guinea"
+    }
+  },
+  "AR": {
+    "nationality": {
+      "de": "argentinisch",
+      "en": "Argentine; Argentinian"
+    },
+    "Country": {
+      "de": "Argentinien",
+      "en": "Argentina"
+    }
+  },
+  "AM": {
+    "nationality": {
+      "de": "armenisch",
+      "en": "Armenian"
+    },
+    "Country": {
+      "de": "Armenien",
+      "en": "Armenia"
+    }
+  },
+  "AW": {
+    "nationality": {
+      "de": "arubanisch",
+      "en": "Aruban"
+    },
+    "Country": {
+      "de": "Aruba",
+      "en": "Aruba"
+    }
+  },
+  "AZ": {
+    "nationality": {
+      "de": "aserbaidschanisch",
+      "en": "Azerbaijani"
+    },
+    "Country": {
+      "de": "Aserbaidschan",
+      "en": "Azerbaijan"
+    }
+  },
+  "ET": {
+    "nationality": {
+      "de": "äthiopisch",
+      "en": "Ethiopian"
+    },
+    "Country": {
+      "de": "Äthiopien",
+      "en": "Ethiopia"
+    }
+  },
+  "AU": {
+    "nationality": {
+      "de": "australisch",
+      "en": "Australian"
+    },
+    "Country": {
+      "de": "Australien",
+      "en": "Australia"
+    }
+  },
+  "BS": {
+    "nationality": {
+      "de": "bahamaisch",
+      "en": "Bahamian"
+    },
+    "Country": {
+      "de": "Bahamas",
+      "en": "Bahamas"
+    }
+  },
+  "BH": {
+    "nationality": {
+      "de": "bahrainisch",
+      "en": "Bahraini"
+    },
+    "Country": {
+      "de": "Bahrain",
+      "en": "Bahrain"
+    }
+  },
+  "BD": {
+    "nationality": {
+      "de": "bangladeschisch",
+      "en": "Bangladeshi"
+    },
+    "Country": {
+      "de": "Bangladesch",
+      "en": "Bangladesh"
+    }
+  },
+  "BB": {
+    "nationality": {
+      "de": "barbadisch",
+      "en": "Barbadian"
+    },
+    "Country": {
+      "de": "Barbados",
+      "en": "Barbados"
+    }
+  },
+  "BY": {
+    "nationality": {
+      "de": "belarussisch",
+      "en": "Belarusian"
+    },
+    "Country": {
+      "de": "Belarus",
+      "en": "Belarus"
+    }
+  },
+  "BE": {
+    "nationality": {
+      "de": "belgisch",
+      "en": "Belgian"
+    },
+    "Country": {
+      "de": "Belgien",
+      "en": "Belgium"
+    }
+  },
+  "BZ": {
+    "nationality": {
+      "de": "belizisch",
+      "en": "Belizean"
+    },
+    "Country": {
+      "de": "Belize",
+      "en": "Belize"
+    }
+  },
+  "BJ": {
+    "nationality": {
+      "de": "beninisch",
+      "en": "Beninese"
+    },
+    "Country": {
+      "de": "Benin",
+      "en": "Benin"
+    }
+  },
+  "BM": {
+    "nationality": {
+      "de": "bermudisch",
+      "en": "Bermudian"
+    },
+    "Country": {
+      "de": "Bermuda",
+      "en": "Bermuda"
+    }
+  },
+  "BT": {
+    "nationality": {
+      "de": "bhutanisch",
+      "en": "Bhutanese"
+    },
+    "Country": {
+      "de": "Bhutan",
+      "en": "Bhutan"
+    }
+  },
+  "BO": {
+    "nationality": {
+      "de": "bolivianisch",
+      "en": "Bolivian"
+    },
+    "Country": {
+      "de": "Bolivien",
+      "en": "Bolivia"
+    }
+  },
+  "BA": {
+    "nationality": {
+      "de": "bosnisch-herzegowinisch",
+      "en": "of Bosnia and Herzegovina"
+    },
+    "Country": {
+      "de": "Bosnien-Herzegowina",
+      "en": "Bosnia-Herzegovina"
+    }
+  },
+  "BW": {
+    "nationality": {
+      "de": "botsuanisch",
+      "en": "Botswanan"
+    },
+    "Country": {
+      "de": "Botsuana",
+      "en": "Botswana"
+    }
+  },
+  "BV": {
+    "nationality": {
+      "de": "der Bouvetinsel",
+      "en": "of Bouvet Island"
+    },
+    "Country": {
+      "de": "Bouvetinsel",
+      "en": "Bouvet Island"
+    }
+  },
+  "BR": {
+    "nationality": {
+      "de": "brasilianisch",
+      "en": "Brazilian"
+    },
+    "Country": {
+      "de": "Brasilien",
+      "en": "Brazil"
+    }
+  },
+  "IO": {
+    "nationality": {
+      "de": "des Britischen Territoriums im Indischen Ozean",
+      "en": "of the British Indian Ocean Territory"
+    },
+    "Country": {
+      "de": "Britisches Territorium im Indischen Ozean",
+      "en": "British Indian Ocean Territory"
+    }
+  },
+  "VG": {
+    "nationality": {
+      "de": "der Britischen Jungferninseln",
+      "en": "of the British Virgin Islands"
+    },
+    "Country": {
+      "de": "Britische Jungferninseln",
+      "en": "British Virgin Islands"
+    }
+  },
+  "BN": {
+    "nationality": {
+      "de": "bruneiisch",
+      "en": "Bruneian"
+    },
+    "Country": {
+      "de": "Brunei",
+      "en": "Brunei"
+    }
+  },
+  "BG": {
+    "nationality": {
+      "de": "bulgarisch",
+      "en": "Bulgarian"
+    },
+    "Country": {
+      "de": "Bulgarien",
+      "en": "Bulgaria"
+    }
+  },
+  "BF": {
+    "nationality": {
+      "de": "burkinisch",
+      "en": "Burkinabe"
+    },
+    "Country": {
+      "de": "Burkina Faso",
+      "en": "Burkina Faso"
+    }
+  },
+  "BI": {
+    "nationality": {
+      "de": "burundisch",
+      "en": "Burundian"
+    },
+    "Country": {
+      "de": "Burundi",
+      "en": "Burundi"
+    }
+  },
+  "CV": {
+    "nationality": {
+      "de": "von Cabo Verde",
+      "en": "Cape Verdean"
+    },
+    "Country": {
+      "de": "Kap Verde",
+      "en": "Cabo Verde"
+    }
+  },
+  "CL": {
+    "nationality": {
+      "de": "chilenisch",
+      "en": "Chilean"
+    },
+    "Country": {
+      "de": "Chile",
+      "en": "Chile"
+    }
+  },
+  "CN": {
+    "nationality": {
+      "de": "chinesisch",
+      "en": "Chinese"
+    },
+    "Country": {
+      "de": "China",
+      "en": "China"
+    }
+  },
+  "CP": {
+    "nationality": {
+      "de": "von Clipperton",
+      "en": "of Clipperton Island"
+    },
+    "Country": {
+      "de": "Clipperton-Insel",
+      "en": "Clipperton Island"
+    }
+  },
+  "CK": {
+    "nationality": {
+      "de": "der Cookinseln",
+      "en": "of the Cook Islands"
+    },
+    "Country": {
+      "de": "Cookinseln",
+      "en": "Cook Islands"
+    }
+  },
+  "CR": {
+    "nationality": {
+      "de": "costa-ricanisch",
+      "en": "Costa Rican"
+    },
+    "Country": {
+      "de": "Costa Rica",
+      "en": "Costa Rica"
+    }
+  },
+  "CI": {
+    "nationality": {
+      "de": "ivorisch",
+      "en": "Ivorian"
+    },
+    "Country": {
+      "de": "Elfenbeinküste",
+      "en": "Ivory Coast"
+    }
+  },
+  "CW": {
+    "nationality": {
+      "de": "von Curaçao",
+      "en": "of Curaçao"
+    },
+    "Country": {
+      "de": "Curaçao",
+      "en": "Curaçao"
+    }
+  },
+  "DK": {
+    "nationality": {
+      "de": "dänisch",
+      "en": "Danish"
+    },
+    "Country": {
+      "de": "Dänemark",
+      "en": "Denmark"
+    }
+  },
+  "DE": {
+    "nationality": {
+      "de": "deutsch",
+      "en": "German"
+    },
+    "Country": {
+      "de": "Deutschland",
+      "en": "Germany"
+    }
+  },
+  "DM": {
+    "nationality": {
+      "de": "dominicanisch",
+      "en": "of Dominica"
+    },
+    "Country": {
+      "de": "Dominica",
+      "en": "Dominica"
+    }
+  },
+  "DO": {
+    "nationality": {
+      "de": "dominikanisch",
+      "en": "Dominican"
+    },
+    "Country": {
+      "de": "Dominikanische Republik",
+      "en": "Dominican Republic"
+    }
+  },
+  "DJ": {
+    "nationality": {
+      "de": "dschibutisch",
+      "en": "of Djibouti"
+    },
+    "Country": {
+      "de": "Dschibuti",
+      "en": "Djibouti"
+    }
+  },
+  "EC": {
+    "nationality": {
+      "de": "ecuadorianisch",
+      "en": "Ecuadorian"
+    },
+    "Country": {
+      "de": "Ecuador",
+      "en": "Ecuador"
+    }
+  },
+  "SV": {
+    "nationality": {
+      "de": "salvadorianisch",
+      "en": "Salvadorian; Salvadoran"
+    },
+    "Country": {
+      "de": "El Salvador",
+      "en": "El Salvador"
+    }
+  },
+  "ER": {
+    "nationality": {
+      "de": "eritreisch",
+      "en": "Eritrean"
+    },
+    "Country": {
+      "de": "Eritrea",
+      "en": "Eritrea"
+    }
+  },
+  "EE": {
+    "nationality": {
+      "de": "estnisch",
+      "en": "Estonian"
+    },
+    "Country": {
+      "de": "Estland",
+      "en": "Estonia"
+    }
+  },
+  "FK": {
+    "nationality": {
+      "de": "falkländisch",
+      "en": "of the Falkland Islands"
+    },
+    "Country": {
+      "de": "Falklandinseln",
+      "en": "Falkland Islands"
+    }
+  },
+  "FO": {
+    "nationality": {
+      "de": "färöisch",
+      "en": "Faroese"
+    },
+    "Country": {
+      "de": "Färöer",
+      "en": "Faroe Islands"
+    }
+  },
+  "FJ": {
+    "nationality": {
+      "de": "fidschianisch",
+      "en": "Fijian"
+    },
+    "Country": {
+      "de": "Fidschi",
+      "en": "Fiji"
+    }
+  },
+  "FI": {
+    "nationality": {
+      "de": "finnisch",
+      "en": "Finnish"
+    },
+    "Country": {
+      "de": "Finnland",
+      "en": "Finland"
+    }
+  },
+  "FR": {
+    "nationality": {
+      "de": "französisch",
+      "en": "French"
+    },
+    "Country": {
+      "de": "Frankreich",
+      "en": "France"
+    }
+  },
+  "TF": {
+    "nationality": {
+      "de": "der Französischen Süd- und Antarktisgebiete",
+      "en": "of the French Southern and Antarctic Lands"
+    },
+    "Country": {
+      "de": "Französische Süd- und Antarktisgebiete",
+      "en": "French Southern and Antarctic Lands"
+    }
+  },
+  "GF": {
+    "nationality": {
+      "de": "von Französisch-Guayana",
+      "en": "Guianese"
+    },
+    "Country": {
+      "de": "Französisch-Guayana",
+      "en": "French Guiana"
+    }
+  },
+  "PF": {
+    "nationality": {
+      "de": "von Französisch-Polynesien",
+      "en": "Polynesian"
+    },
+    "Country": {
+      "de": "Französisch-Polynesien",
+      "en": "French Polynesia"
+    }
+  },
+  "GA": {
+    "nationality": {
+      "de": "gabunisch",
+      "en": "Gabonese"
+    },
+    "Country": {
+      "de": "Gabun",
+      "en": "Gabon"
+    }
+  },
+  "GM": {
+    "nationality": {
+      "de": "gambisch",
+      "en": "Gambian"
+    },
+    "Country": {
+      "de": "Gambia",
+      "en": "Gambia"
+    }
+  },
+  "GE": {
+    "nationality": {
+      "de": "georgisch",
+      "en": "Georgian"
+    },
+    "Country": {
+      "de": "Georgien",
+      "en": "Georgia"
+    }
+  },
+  "GH": {
+    "nationality": {
+      "de": "ghanaisch",
+      "en": "Ghanaian"
+    },
+    "Country": {
+      "de": "Ghana",
+      "en": "Ghana"
+    }
+  },
+  "GI": {
+    "nationality": {
+      "de": "gibraltarisch",
+      "en": "Gibraltarian"
+    },
+    "Country": {
+      "de": "Gibraltar",
+      "en": "Gibraltar"
+    }
+  },
+  "GD": {
+    "nationality": {
+      "de": "grenadisch",
+      "en": "Grenadian"
+    },
+    "Country": {
+      "de": "Grenada",
+      "en": "Grenada"
+    }
+  },
+  "GR": {
+    "nationality": {
+      "de": "griechisch",
+      "en": "Greek"
+    },
+    "Country": {
+      "de": "Griechenland",
+      "en": "Greece"
+    }
+  },
+  "GL": {
+    "nationality": {
+      "de": "grönländisch",
+      "en": "Greenlandic"
+    },
+    "Country": {
+      "de": "Grönland",
+      "en": "Greenland"
+    }
+  },
+  "GP": {
+    "nationality": {
+      "de": "von Guadeloupe",
+      "en": "Guadeloupean"
+    },
+    "Country": {
+      "de": "Guadeloupe",
+      "en": "Guadeloupe"
+    }
+  },
+  "GU": {
+    "nationality": {
+      "de": "guamisch",
+      "en": "Guamanian"
+    },
+    "Country": {
+      "de": "Guam",
+      "en": "Guam"
+    }
+  },
+  "GT": {
+    "nationality": {
+      "de": "guatemaltekisch",
+      "en": "Guatemalan"
+    },
+    "Country": {
+      "de": "Guatemala",
+      "en": "Guatemala"
+    }
+  },
+  "GG": {
+    "nationality": {
+      "de": "von Guernsey",
+      "en": "Guernsey"
+    },
+    "Country": {
+      "de": "Guernsey",
+      "en": "Guernsey"
+    }
+  },
+  "GN": {
+    "nationality": {
+      "de": "guineisch",
+      "en": "Guinean"
+    },
+    "Country": {
+      "de": "Guinea",
+      "en": "Guinea"
+    }
+  },
+  "GW": {
+    "nationality": {
+      "de": "guinea-bissauisch",
+      "en": "of Guinea-Bissau"
+    },
+    "Country": {
+      "de": "Guinea-Bissau",
+      "en": "Guinea-Bissau"
+    }
+  },
+  "GY": {
+    "nationality": {
+      "de": "guyanisch",
+      "en": "Guyanese"
+    },
+    "Country": {
+      "de": "Guyana",
+      "en": "Guyana"
+    }
+  },
+  "HT": {
+    "nationality": {
+      "de": "haitianisch",
+      "en": "Haitian"
+    },
+    "Country": {
+      "de": "Haiti",
+      "en": "Haiti"
+    }
+  },
+  "HM": {
+    "nationality": {
+      "de": "von Heard und den McDonaldinseln",
+      "en": "of the Heard Island and McDonald Islands"
+    },
+    "Country": {
+      "de": "Heard- und McDonald-Inseln",
+      "en": "Heard Island and McDonald Islands"
+    }
+  },
+  "VA": {
+    "nationality": {
+      "de": "vatikanisch",
+      "en": "of the Holy See/of the Vatican"
+    },
+    "Country": {
+      "de": "Heiliger Stuhl",
+      "en": "Holy See"
+    }
+  },
+  "HN": {
+    "nationality": {
+      "de": "honduranisch",
+      "en": "Honduran"
+    },
+    "Country": {
+      "de": "Honduras",
+      "en": "Honduras"
+    }
+  },
+  "HK": {
+    "nationality": {
+      "de": "von Hongkong",
+      "en": "Hong Kong Chinese"
+    },
+    "Country": {
+      "de": "Hongkong",
+      "en": "Hong Kong"
+    }
+  },
+  "IN": {
+    "nationality": {
+      "de": "indisch",
+      "en": "Indian"
+    },
+    "Country": {
+      "de": "Indien",
+      "en": "India"
+    }
+  },
+  "ID": {
+    "nationality": {
+      "de": "indonesisch",
+      "en": "Indonesian"
+    },
+    "Country": {
+      "de": "Indonesien",
+      "en": "Indonesia"
+    }
+  },
+  "IM": {
+    "nationality": {
+      "de": "Manx",
+      "en": "Manx"
+    },
+    "Country": {
+      "de": "Isle of Man",
+      "en": "Isle of Man"
+    }
+  },
+  "IQ": {
+    "nationality": {
+      "de": "irakisch",
+      "en": "Iraqi"
+    },
+    "Country": {
+      "de": "Irak",
+      "en": "Iraq"
+    }
+  },
+  "IR": {
+    "nationality": {
+      "de": "iranisch",
+      "en": "Iranian"
+    },
+    "Country": {
+      "de": "Iran",
+      "en": "Iran"
+    }
+  },
+  "IE": {
+    "nationality": {
+      "de": "irisch",
+      "en": "Irish"
+    },
+    "Country": {
+      "de": "Irland",
+      "en": "Ireland"
+    }
+  },
+  "IS": {
+    "nationality": {
+      "de": "isländisch",
+      "en": "Icelandic"
+    },
+    "Country": {
+      "de": "Island",
+      "en": "Iceland"
+    }
+  },
+  "IL": {
+    "nationality": {
+      "de": "israelisch",
+      "en": "Israeli"
+    },
+    "Country": {
+      "de": "Israel",
+      "en": "Israel"
+    }
+  },
+  "IT": {
+    "nationality": {
+      "de": "italienisch",
+      "en": "Italian"
+    },
+    "Country": {
+      "de": "Italien",
+      "en": "Italy"
+    }
+  },
+  "JM": {
+    "nationality": {
+      "de": "jamaikanisch",
+      "en": "Jamaican"
+    },
+    "Country": {
+      "de": "Jamaika",
+      "en": "Jamaica"
+    }
+  },
+  "JP": {
+    "nationality": {
+      "de": "japanisch",
+      "en": "Japanese"
+    },
+    "Country": {
+      "de": "Japan",
+      "en": "Japan"
+    }
+  },
+  "YE": {
+    "nationality": {
+      "de": "jemenitisch",
+      "en": "Yemeni"
+    },
+    "Country": {
+      "de": "Jemen",
+      "en": "Yemen"
+    }
+  },
+  "JE": {
+    "nationality": {
+      "de": "von Jersey",
+      "en": "Jersey"
+    },
+    "Country": {
+      "de": "Jersey",
+      "en": "Jersey"
+    }
+  },
+  "JO": {
+    "nationality": {
+      "de": "jordanisch",
+      "en": "Jordanian"
+    },
+    "Country": {
+      "de": "Jordanien",
+      "en": "Jordan"
+    }
+  },
+  "KY": {
+    "nationality": {
+      "de": "der Kaimaninseln",
+      "en": "Caymanian"
+    },
+    "Country": {
+      "de": "Kaimaninseln",
+      "en": "Cayman Islands"
+    }
+  },
+  "KH": {
+    "nationality": {
+      "de": "kambodschanisch",
+      "en": "Cambodian"
+    },
+    "Country": {
+      "de": "Kambodscha",
+      "en": "Cambodia"
+    }
+  },
+  "CM": {
+    "nationality": {
+      "de": "kamerunisch",
+      "en": "Cameroonian"
+    },
+    "Country": {
+      "de": "Kamerun",
+      "en": "Cameroon"
+    }
+  },
+  "CA": {
+    "nationality": {
+      "de": "kanadisch",
+      "en": "Canadian"
+    },
+    "Country": {
+      "de": "Kanada",
+      "en": "Canada"
+    }
+  },
+  "KZ": {
+    "nationality": {
+      "de": "kasachisch",
+      "en": "Kazakh"
+    },
+    "Country": {
+      "de": "Kasachstan",
+      "en": "Kazakhstan"
+    }
+  },
+  "QA": {
+    "nationality": {
+      "de": "katarisch",
+      "en": "Qatari"
+    },
+    "Country": {
+      "de": "Katar",
+      "en": "Qatar"
+    }
+  },
+  "KE": {
+    "nationality": {
+      "de": "kenianisch",
+      "en": "Kenyan"
+    },
+    "Country": {
+      "de": "Kenia",
+      "en": "Kenya"
+    }
+  },
+  "KG": {
+    "nationality": {
+      "de": "kirgisisch",
+      "en": "Kyrgyz"
+    },
+    "Country": {
+      "de": "Kirgisistan",
+      "en": "Kyrgyzstan"
+    }
+  },
+  "KI": {
+    "nationality": {
+      "de": "kiribatisch",
+      "en": "Kiribatian"
+    },
+    "Country": {
+      "de": "Kiribati",
+      "en": "Kiribati"
+    }
+  },
+  "UM": {
+    "nationality": {
+      "de": "der Kleineren Amerikanischen Überseeinseln",
+      "en": "—"
+    },
+    "Country": {
+      "de": "Kleinere Amerikanische Überseeinseln",
+      "en": "United States Minor Outlying Islands"
+    }
+  },
+  "CC": {
+    "nationality": {
+      "de": "der Kokosinseln",
+      "en": "of the Cocos (Keeling) Islands"
+    },
+    "Country": {
+      "de": "Kokosinseln",
+      "en": "Cocos (Keeling) Islands"
+    }
+  },
+  "CO": {
+    "nationality": {
+      "de": "kolumbianisch",
+      "en": "Colombian"
+    },
+    "Country": {
+      "de": "Kolumbien",
+      "en": "Colombia"
+    }
+  },
+  "KM": {
+    "nationality": {
+      "de": "komorisch",
+      "en": "Comorian"
+    },
+    "Country": {
+      "de": "Komoren",
+      "en": "Comoros"
+    }
+  },
+  "CD": {
+    "nationality": {
+      "de": "der Demokratischen Republik Kongo",
+      "en": "of the Democratic Republic of the Congo"
+    },
+    "Country": {
+      "de": "Demokratische Republik Kongo",
+      "en": "Democratic Republic of the Congo"
+    }
+  },
+  "CG": {
+    "nationality": {
+      "de": "kongolesisch",
+      "en": "Congolese"
+    },
+    "Country": {
+      "de": "Kongo",
+      "en": "Congo"
+    }
+  },
+  "HR": {
+    "nationality": {
+      "de": "kroatisch",
+      "en": "Croatian"
+    },
+    "Country": {
+      "de": "Kroatien",
+      "en": "Croatia"
+    }
+  },
+  "CU": {
+    "nationality": {
+      "de": "kubanisch",
+      "en": "Cuban"
+    },
+    "Country": {
+      "de": "Kuba",
+      "en": "Cuba"
+    }
+  },
+  "KW": {
+    "nationality": {
+      "de": "kuwaitisch",
+      "en": "Kuwaiti"
+    },
+    "Country": {
+      "de": "Kuwait",
+      "en": "Kuwait"
+    }
+  },
+  "LA": {
+    "nationality": {
+      "de": "laotisch",
+      "en": "Lao; Laotian"
+    },
+    "Country": {
+      "de": "Laos",
+      "en": "Laos"
+    }
+  },
+  "LS": {
+    "nationality": {
+      "de": "lesothisch",
+      "en": "of Lesotho"
+    },
+    "Country": {
+      "de": "Lesotho",
+      "en": "Lesotho"
+    }
+  },
+  "LV": {
+    "nationality": {
+      "de": "lettisch",
+      "en": "Latvian"
+    },
+    "Country": {
+      "de": "Lettland",
+      "en": "Latvia"
+    }
+  },
+  "LB": {
+    "nationality": {
+      "de": "libanesisch",
+      "en": "Lebanese"
+    },
+    "Country": {
+      "de": "Libanon",
+      "en": "Lebanon"
+    }
+  },
+  "LR": {
+    "nationality": {
+      "de": "liberianisch",
+      "en": "Liberian"
+    },
+    "Country": {
+      "de": "Liberia",
+      "en": "Liberia"
+    }
+  },
+  "LY": {
+    "nationality": {
+      "de": "libysch",
+      "en": "Libyan"
+    },
+    "Country": {
+      "de": "Libyen",
+      "en": "Libya"
+    }
+  },
+  "LI": {
+    "nationality": {
+      "de": "liechtensteinisch",
+      "en": "of Liechtenstein"
+    },
+    "Country": {
+      "de": "Liechtenstein",
+      "en": "Liechtenstein"
+    }
+  },
+  "LT": {
+    "nationality": {
+      "de": "litauisch",
+      "en": "Lithuanian"
+    },
+    "Country": {
+      "de": "Litauen",
+      "en": "Lithuania"
+    }
+  },
+  "LU": {
+    "nationality": {
+      "de": "luxemburgisch",
+      "en": "Luxembourgish"
+    },
+    "Country": {
+      "de": "Luxemburg",
+      "en": "Luxembourg"
+    }
+  },
+  "MO": {
+    "nationality": {
+      "de": "von Macau",
+      "en": "Macanese"
+    },
+    "Country": {
+      "de": "Macau",
+      "en": "Macau"
+    }
+  },
+  "MG": {
+    "nationality": {
+      "de": "madagassisch",
+      "en": "Malagasy"
+    },
+    "Country": {
+      "de": "Madagaskar",
+      "en": "Madagascar"
+    }
+  },
+  "MW": {
+    "nationality": {
+      "de": "malawisch",
+      "en": "Malawian"
+    },
+    "Country": {
+      "de": "Malawi",
+      "en": "Malawi"
+    }
+  },
+  "MY": {
+    "nationality": {
+      "de": "malaysisch",
+      "en": "Malaysian"
+    },
+    "Country": {
+      "de": "Malaysia",
+      "en": "Malaysia"
+    }
+  },
+  "MV": {
+    "nationality": {
+      "de": "maledivisch",
+      "en": "Maldivian"
+    },
+    "Country": {
+      "de": "Malediven",
+      "en": "Maldives"
+    }
+  },
+  "ML": {
+    "nationality": {
+      "de": "malisch",
+      "en": "Malian"
+    },
+    "Country": {
+      "de": "Mali",
+      "en": "Mali"
+    }
+  },
+  "MT": {
+    "nationality": {
+      "de": "maltesisch",
+      "en": "Maltese"
+    },
+    "Country": {
+      "de": "Malta",
+      "en": "Malta"
+    }
+  },
+  "MA": {
+    "nationality": {
+      "de": "marokkanisch",
+      "en": "Moroccan"
+    },
+    "Country": {
+      "de": "Marokko",
+      "en": "Morocco"
+    }
+  },
+  "MH": {
+    "nationality": {
+      "de": "marshallisch",
+      "en": "Marshallese"
+    },
+    "Country": {
+      "de": "Marshallinseln",
+      "en": "Marshall Islands"
+    }
+  },
+  "MQ": {
+    "nationality": {
+      "de": "von Martinique",
+      "en": "Martinican"
+    },
+    "Country": {
+      "de": "Martinique",
+      "en": "Martinique"
+    }
+  },
+  "MR": {
+    "nationality": {
+      "de": "mauretanisch",
+      "en": "Mauritanian"
+    },
+    "Country": {
+      "de": "Mauretanien",
+      "en": "Mauritania"
+    }
+  },
+  "MU": {
+    "nationality": {
+      "de": "mauritisch",
+      "en": "Mauritian"
+    },
+    "Country": {
+      "de": "Mauritius",
+      "en": "Mauritius"
+    }
+  },
+  "YT": {
+    "nationality": {
+      "de": "mahorisch",
+      "en": "Mahoran"
+    },
+    "Country": {
+      "de": "Mayotte",
+      "en": "Mayotte"
+    }
+  },
+  "MX": {
+    "nationality": {
+      "de": "mexikanisch",
+      "en": "Mexican"
+    },
+    "Country": {
+      "de": "Mexiko",
+      "en": "Mexico"
+    }
+  },
+  "FM": {
+    "nationality": {
+      "de": "mikronesisch",
+      "en": "of Micronesia"
+    },
+    "Country": {
+      "de": "Mikronesien",
+      "en": "Micronesia"
+    }
+  },
+  "MD": {
+    "nationality": {
+      "de": "moldauisch",
+      "en": "Moldovan"
+    },
+    "Country": {
+      "de": "Moldawien",
+      "en": "Moldova"
+    }
+  },
+  "MC": {
+    "nationality": {
+      "de": "monegassisch",
+      "en": "Monegasque"
+    },
+    "Country": {
+      "de": "Monaco",
+      "en": "Monaco"
+    }
+  },
+  "MN": {
+    "nationality": {
+      "de": "mongolisch",
+      "en": "Mongolian"
+    },
+    "Country": {
+      "de": "Mongolei",
+      "en": "Mongolia"
+    }
+  },
+  "ME": {
+    "nationality": {
+      "de": "montenegrinisch",
+      "en": "Montenegrin"
+    },
+    "Country": {
+      "de": "Montenegro",
+      "en": "Montenegro"
+    }
+  },
+  "MS": {
+    "nationality": {
+      "de": "von Montserrat",
+      "en": "Montserratian"
+    },
+    "Country": {
+      "de": "Montserrat",
+      "en": "Montserrat"
+    }
+  },
+  "MZ": {
+    "nationality": {
+      "de": "mosambikanisch",
+      "en": "Mozambican"
+    },
+    "Country": {
+      "de": "Mosambik",
+      "en": "Mozambique"
+    }
+  },
+  "MM": {
+    "nationality": {
+      "de": "von Myanmar/Birma",
+      "en": "of Myanmar/Burma"
+    },
+    "Country": {
+      "de": "Myanmar",
+      "en": "Myanmar"
+    }
+  },
+  "NA": {
+    "nationality": {
+      "de": "namibisch",
+      "en": "Namibian"
+    },
+    "Country": {
+      "de": "Namibia",
+      "en": "Namibia"
+    }
+  },
+  "NR": {
+    "nationality": {
+      "de": "nauruisch",
+      "en": "Nauruan"
+    },
+    "Country": {
+      "de": "Nauru",
+      "en": "Nauru"
+    }
+  },
+  "NP": {
+    "nationality": {
+      "de": "nepalesisch",
+      "en": "Nepalese"
+    },
+    "Country": {
+      "de": "Nepal",
+      "en": "Nepal"
+    }
+  },
+  "NC": {
+    "nationality": {
+      "de": "neukaledonisch",
+      "en": "New Caledonian"
+    },
+    "Country": {
+      "de": "Neukaledonien",
+      "en": "New Caledonia"
+    }
+  },
+  "NZ": {
+    "nationality": {
+      "de": "neuseeländisch",
+      "en": "New Zealander"
+    },
+    "Country": {
+      "de": "Neuseeland",
+      "en": "New Zealand"
+    }
+  },
+  "NI": {
+    "nationality": {
+      "de": "nicaraguanisch",
+      "en": "Nicaraguan"
+    },
+    "Country": {
+      "de": "Nicaragua",
+      "en": "Nicaragua"
+    }
+  },
+  "NL": {
+    "nationality": {
+      "de": "niederländisch",
+      "en": "Dutch"
+    },
+    "Country": {
+      "de": "Niederlande",
+      "en": "Netherlands"
+    }
+  },
+  "NE": {
+    "nationality": {
+      "de": "nigrisch",
+      "en": "Nigerien"
+    },
+    "Country": {
+      "de": "Niger",
+      "en": "Niger"
+    }
+  },
+  "NG": {
+    "nationality": {
+      "de": "nigerianisch",
+      "en": "Nigerian"
+    },
+    "Country": {
+      "de": "Nigeria",
+      "en": "Nigeria"
+    }
+  },
+  "NU": {
+    "nationality": {
+      "de": "niueanisch",
+      "en": "Niuean"
+    },
+    "Country": {
+      "de": "Niue",
+      "en": "Niue"
+    }
+  },
+  "KP": {
+    "nationality": {
+      "de": "der Demokratischen Volksrepublik Korea",
+      "en": "North Korean"
+    },
+    "Country": {
+      "de": "Nordkorea",
+      "en": "North Korea"
+    }
+  },
+  "MP": {
+    "nationality": {
+      "de": "der Nördlichen Marianen",
+      "en": "of the Northern Mariana Islands"
+    },
+    "Country": {
+      "de": "Nördliche Marianen",
+      "en": "Northern Mariana Islands"
+    }
+  },
+  "NF": {
+    "nationality": {
+      "de": "der Norfolkinsel",
+      "en": "of Norfolk Island"
+    },
+    "Country": {
+      "de": "Norfolkinsel",
+      "en": "Norfolk Island"
+    }
+  },
+  "NO": {
+    "nationality": {
+      "de": "norwegisch",
+      "en": "Norwegian"
+    },
+    "Country": {
+      "de": "Norwegen",
+      "en": "Norway"
+    }
+  },
+  "OM": {
+    "nationality": {
+      "de": "omanisch",
+      "en": "Omani"
+    },
+    "Country": {
+      "de": "Oman",
+      "en": "Oman"
+    }
+  },
+  "AT": {
+    "nationality": {
+      "de": "österreichisch",
+      "en": "Austrian"
+    },
+    "Country": {
+      "de": "Österreich",
+      "en": "Austria"
+    }
+  },
+  "PK": {
+    "nationality": {
+      "de": "pakistanisch",
+      "en": "Pakistani"
+    },
+    "Country": {
+      "de": "Pakistan",
+      "en": "Pakistan"
+    }
+  },
+  "PW": {
+    "nationality": {
+      "de": "palauisch",
+      "en": "Palauan"
+    },
+    "Country": {
+      "de": "Palau",
+      "en": "Palau"
+    }
+  },
+  "PA": {
+    "nationality": {
+      "de": "panamaisch",
+      "en": "Panamanian"
+    },
+    "Country": {
+      "de": "Panama",
+      "en": "Panama"
+    }
+  },
+  "PG": {
+    "nationality": {
+      "de": "papua-neuguineisch",
+      "en": "of Papua New Guinea"
+    },
+    "Country": {
+      "de": "Papua-Neuguinea",
+      "en": "Papua New Guinea"
+    }
+  },
+  "PY": {
+    "nationality": {
+      "de": "paraguayisch",
+      "en": "Paraguayan"
+    },
+    "Country": {
+      "de": "Paraguay",
+      "en": "Paraguay"
+    }
+  },
+  "PE": {
+    "nationality": {
+      "de": "peruanisch",
+      "en": "Peruvian"
+    },
+    "Country": {
+      "de": "Peru",
+      "en": "Peru"
+    }
+  },
+  "PH": {
+    "nationality": {
+      "de": "philippinisch",
+      "en": "Philippine"
+    },
+    "Country": {
+      "de": "Philippinen",
+      "en": "Philippines"
+    }
+  },
+  "PN": {
+    "nationality": {
+      "de": "der Pitcairninseln",
+      "en": "Pitcairner"
+    },
+    "Country": {
+      "de": "Pitcairninseln",
+      "en": "Pitcairn Islands"
+    }
+  },
+  "PL": {
+    "nationality": {
+      "de": "polnisch",
+      "en": "Polish"
+    },
+    "Country": {
+      "de": "Polen",
+      "en": "Poland"
+    }
+  },
+  "PT": {
+    "nationality": {
+      "de": "portugiesisch",
+      "en": "Portuguese"
+    },
+    "Country": {
+      "de": "Portugal",
+      "en": "Portugal"
+    }
+  },
+  "PR": {
+    "nationality": {
+      "de": "puerto-ricanisch",
+      "en": "Puerto Rican"
+    },
+    "Country": {
+      "de": "Puerto Rico",
+      "en": "Puerto Rico"
+    }
+  },
+  "RE": {
+    "nationality": {
+      "de": "von Réunion",
+      "en": "Reunionese"
+    },
+    "Country": {
+      "de": "Réunion",
+      "en": "Réunion"
+    }
+  },
+  "RW": {
+    "nationality": {
+      "de": "ruandisch",
+      "en": "Rwandan; Rwandese"
+    },
+    "Country": {
+      "de": "Ruanda",
+      "en": "Rwanda"
+    }
+  },
+  "RO": {
+    "nationality": {
+      "de": "rumänisch",
+      "en": "Romanian"
+    },
+    "Country": {
+      "de": "Rumänien",
+      "en": "Romania"
+    }
+  },
+  "RU": {
+    "nationality": {
+      "de": "russisch",
+      "en": "Russian"
+    },
+    "Country": {
+      "de": "Russland",
+      "en": "Russia"
+    }
+  },
+  "SB": {
+    "nationality": {
+      "de": "salomonisch",
+      "en": "of the Solomon Islands"
+    },
+    "Country": {
+      "de": "Salomonen",
+      "en": "Solomon Islands"
+    }
+  },
+  "ZM": {
+    "nationality": {
+      "de": "sambisch",
+      "en": "Zambian"
+    },
+    "Country": {
+      "de": "Sambia",
+      "en": "Zambia"
+    }
+  },
+  "WS": {
+    "nationality": {
+      "de": "samoanisch",
+      "en": "Samoan"
+    },
+    "Country": {
+      "de": "Samoa",
+      "en": "Samoa"
+    }
+  },
+  "SM": {
+    "nationality": {
+      "de": "san-marinesisch",
+      "en": "of San Marino"
+    },
+    "Country": {
+      "de": "San Marino",
+      "en": "San Marino"
+    }
+  },
+  "ST": {
+    "nationality": {
+      "de": "são-toméisch",
+      "en": "of São Tomé and Príncipe"
+    },
+    "Country": {
+      "de": "São Tomé und Príncipe",
+      "en": "São Tomé and Príncipe"
+    }
+  },
+  "SA": {
+    "nationality": {
+      "de": "saudi-arabisch",
+      "en": "Saudi Arabian"
+    },
+    "Country": {
+      "de": "Saudi-Arabien",
+      "en": "Saudi Arabia"
+    }
+  },
+  "SE": {
+    "nationality": {
+      "de": "schwedisch",
+      "en": "Swedish"
+    },
+    "Country": {
+      "de": "Schweden",
+      "en": "Sweden"
+    }
+  },
+  "CH": {
+    "nationality": {
+      "de": "schweizerisch",
+      "en": "Swiss"
+    },
+    "Country": {
+      "de": "Schweiz",
+      "en": "Switzerland"
+    }
+  },
+  "SN": {
+    "nationality": {
+      "de": "senegalesisch",
+      "en": "Senegalese"
+    },
+    "Country": {
+      "de": "Senegal",
+      "en": "Senegal"
+    }
+  },
+  "RS": {
+    "nationality": {
+      "de": "serbisch",
+      "en": "Serbian"
+    },
+    "Country": {
+      "de": "Serbien",
+      "en": "Serbia"
+    }
+  },
+  "SC": {
+    "nationality": {
+      "de": "seychellisch",
+      "en": "of Seychelles"
+    },
+    "Country": {
+      "de": "Seychellen",
+      "en": "Seychelles"
+    }
+  },
+  "SL": {
+    "nationality": {
+      "de": "sierra-leonisch",
+      "en": "Sierra Leonean"
+    },
+    "Country": {
+      "de": "Sierra Leone",
+      "en": "Sierra Leone"
+    }
+  },
+  "ZW": {
+    "nationality": {
+      "de": "simbabwisch",
+      "en": "Zimbabwean"
+    },
+    "Country": {
+      "de": "Simbabwe",
+      "en": "Zimbabwe"
+    }
+  },
+  "SG": {
+    "nationality": {
+      "de": "singapurisch",
+      "en": "Singaporean"
+    },
+    "Country": {
+      "de": "Singapur",
+      "en": "Singapore"
+    }
+  },
+  "SK": {
+    "nationality": {
+      "de": "slowakisch",
+      "en": "Slovak"
+    },
+    "Country": {
+      "de": "Slowakei",
+      "en": "Slovakia"
+    }
+  },
+  "SI": {
+    "nationality": {
+      "de": "slowenisch",
+      "en": "Slovenian"
+    },
+    "Country": {
+      "de": "Slowenien",
+      "en": "Slovenia"
+    }
+  },
+  "SO": {
+    "nationality": {
+      "de": "somalisch",
+      "en": "Somali; Somalian"
+    },
+    "Country": {
+      "de": "Somalia",
+      "en": "Somalia"
+    }
+  },
+  "ES": {
+    "nationality": {
+      "de": "spanisch",
+      "en": "Spanish"
+    },
+    "Country": {
+      "de": "Spanien",
+      "en": "Spain"
+    }
+  },
+  "LK": {
+    "nationality": {
+      "de": "sri-lankisch",
+      "en": "Sri Lankan"
+    },
+    "Country": {
+      "de": "Sri Lanka",
+      "en": "Sri Lanka"
+    }
+  },
+  "BL": {
+    "nationality": {
+      "de": "von St. Barthélemy",
+      "en": "of Saint Barthélemy"
+    },
+    "Country": {
+      "de": "Saint-Barthélemy",
+      "en": "Saint Barthélemy"
+    }
+  },
+  "SH": {
+    "nationality": {
+      "de": "von St. Helena, Ascension und Tristan da Cunha",
+      "en": "of Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "Country": {
+      "de": "St. Helena, Ascension und Tristan da Cunha",
+      "en": "Saint Helena, Ascension and Tristan da Cunha"
+    }
+  },
+  "KN": {
+    "nationality": {
+      "de": "von St. Kitts und Nevis",
+      "en": "of Saint Kitts and Nevis"
+    },
+    "Country": {
+      "de": "St. Kitts und Nevis",
+      "en": "Saint Kitts and Nevis"
+    }
+  },
+  "LC": {
+    "nationality": {
+      "de": "lucianisch",
+      "en": "Saint Lucian"
+    },
+    "Country": {
+      "de": "St. Lucia",
+      "en": "Saint Lucia"
+    }
+  },
+  "MF": {
+    "nationality": {
+      "de": "von St. Martin",
+      "en": "of Saint Martin"
+    },
+    "Country": {
+      "de": "St. Martin",
+      "en": "Saint Martin"
+    }
+  },
+  "SX": {
+    "nationality": {
+      "de": "von Sint Maarten",
+      "en": "of Sint Maarten"
+    },
+    "Country": {
+      "de": "Sint Maarten",
+      "en": "Sint Maarten"
+    }
+  },
+  "PM": {
+    "nationality": {
+      "de": "von St. Pierre und Miquelon",
+      "en": "of Saint Pierre and Miquelon"
+    },
+    "Country": {
+      "de": "St. Pierre und Miquelon",
+      "en": "Saint Pierre and Miquelon"
+    }
+  },
+  "VC": {
+    "nationality": {
+      "de": "vincentisch",
+      "en": "Vincentian; of Saint Vincent and the Grenadines"
+    },
+    "Country": {
+      "de": "St. Vincent und die Grenadinen",
+      "en": "Saint Vincent and the Grenadines"
+    }
+  },
+  "ZA": {
+    "nationality": {
+      "de": "südafrikanisch",
+      "en": "South African"
+    },
+    "Country": {
+      "de": "Südafrika",
+      "en": "South Africa"
+    }
+  },
+  "SD": {
+    "nationality": {
+      "de": "sudanesisch",
+      "en": "Sudanese"
+    },
+    "Country": {
+      "de": "Sudan",
+      "en": "Sudan"
+    }
+  },
+  "GS": {
+    "nationality": {
+      "de": "Südgeorgiens und der Südlichen Sandwichinseln",
+      "en": "of South Georgia and the South Sandwich Islands"
+    },
+    "Country": {
+      "de": "Südgeorgien und die Südlichen Sandwichinseln",
+      "en": "South Georgia and the South Sandwich Islands"
+    }
+  },
+  "KR": {
+    "nationality": {
+      "de": "der Republik Korea",
+      "en": "South Korean"
+    },
+    "Country": {
+      "de": "Südkorea",
+      "en": "South Korea"
+    }
+  },
+  "SS": {
+    "nationality": {
+      "de": "südsudanesisch",
+      "en": "South Sudanese"
+    },
+    "Country": {
+      "de": "Südsudan",
+      "en": "South Sudan"
+    }
+  },
+  "SR": {
+    "nationality": {
+      "de": "surinamisch",
+      "en": "Surinamese"
+    },
+    "Country": {
+      "de": "Suriname",
+      "en": "Suriname"
+    }
+  },
+  "SJ": {
+    "nationality": {
+      "de": "von Svalbard, von Jan Mayen",
+      "en": "of Svalbard, of Jan Mayen"
+    },
+    "Country": {
+      "de": "Svalbard und Jan Mayen",
+      "en": "Svalbard and Jan Mayen"
+    }
+  },
+  "SZ": {
+    "nationality": {
+      "de": "swasiländisch",
+      "en": "Swazi"
+    },
+    "Country": {
+      "de": "Eswatini",
+      "en": "Eswatini"
+    }
+  },
+  "SY": {
+    "nationality": {
+      "de": "syrisch",
+      "en": "Syrian"
+    },
+    "Country": {
+      "de": "Syrien",
+      "en": "Syria"
+    }
+  },
+  "TJ": {
+    "nationality": {
+      "de": "tadschikisch",
+      "en": "Tajik"
+    },
+    "Country": {
+      "de": "Tadschikistan",
+      "en": "Tajikistan"
+    }
+  },
+  "TW": {
+    "nationality": {
+      "de": "taiwanisch",
+      "en": "Taiwanese"
+    },
+    "Country": {
+      "de": "Taiwan",
+      "en": "Taiwan"
+    }
+  },
+  "TZ": {
+    "nationality": {
+      "de": "tansanisch",
+      "en": "Tanzanian"
+    },
+    "Country": {
+      "de": "Tasania",
+      "en": "Tansnia"
+    }
+  },
+  "TH": {
+    "nationality": {
+      "de": "thailändisch",
+      "en": "Thai"
+    },
+    "Country": {
+      "de": "Thailand",
+      "en": "Thainland"
+    }
+  },
+  "TL": {
+    "nationality": {
+      "de": "timorisch",
+      "en": "East Timorese"
+    },
+    "Country": {
+      "de": "Osttimor",
+      "en": "East Timor"
+    }
+  },
+  "TG": {
+    "nationality": {
+      "de": "togoisch",
+      "en": "Togolese"
+    },
+    "Country": {
+      "de": "Togo",
+      "en": "Togo"
+    }
+  },
+  "TK": {
+    "nationality": {
+      "de": "tokelauisch",
+      "en": "Tokelauan"
+    },
+    "Country": {
+      "de": "Tokelau",
+      "en": "Tokelau"
+    }
+  },
+  "TO": {
+    "nationality": {
+      "de": "tongaisch",
+      "en": "Tongan"
+    },
+    "Country": {
+      "de": "Tonga",
+      "en": "Tonga"
+    }
+  },
+  "TT": {
+    "nationality": {
+      "de": "von Trinidad und Tobago",
+      "en": "of Trinidad and Tobago"
+    },
+    "Country": {
+      "de": "Trinidad und Tobago",
+      "en": "Trinidad and Tobago"
+    }
+  },
+  "TD": {
+    "nationality": {
+      "de": "tschadisch",
+      "en": "Chadian"
+    },
+    "Country": {
+      "de": "Tschad",
+      "en": "Chad"
+    }
+  },
+  "CZ": {
+    "nationality": {
+      "de": "tschechisch",
+      "en": "Czech"
+    },
+    "Country": {
+      "de": "Tschechische Republik",
+      "en": "Czech Republic"
+    }
+  },
+  "TN": {
+    "nationality": {
+      "de": "tunesisch",
+      "en": "Tunisian"
+    },
+    "Country": {
+      "de": "Tunesien",
+      "en": "Tunisia"
+    }
+  },
+  "TR": {
+    "nationality": {
+      "de": "türkisch",
+      "en": "Turkish"
+    },
+    "Country": {
+      "de": "Türkei",
+      "en": "Turkey"
+    }
+  },
+  "TM": {
+    "nationality": {
+      "de": "turkmenisch",
+      "en": "Turkmen"
+    },
+    "Country": {
+      "de": "Turkmenistan",
+      "en": "Turkmenistan"
+    }
+  },
+  "TC": {
+    "nationality": {
+      "de": "der Turks- und Caicosinseln",
+      "en": "of the Turks and Caicos Islands"
+    },
+    "Country": {
+      "de": "Turks- und Caicosinseln",
+      "en": "Turks and Caicos Islands"
+    }
+  },
+  "TV": {
+    "nationality": {
+      "de": "tuvaluisch",
+      "en": "Tuvaluan"
+    },
+    "Country": {
+      "de": "Tuvalu",
+      "en": "Tuvalu"
+    }
+  },
+  "UG": {
+    "nationality": {
+      "de": "ugandisch",
+      "en": "Ugandan"
+    },
+    "Country": {
+      "de": "Uganda",
+      "en": "Uganda"
+    }
+  },
+  "UA": {
+    "nationality": {
+      "de": "ukrainisch",
+      "en": "Ukrainian"
+    },
+    "Country": {
+      "de": "Ukraine",
+      "en": "Ukraine"
+    }
+  },
+  "HU": {
+    "nationality": {
+      "de": "ungarisch",
+      "en": "Hungarian"
+    },
+    "Country": {
+      "de": "Ungarn",
+      "en": "Hungary"
+    }
+  },
+  "UY": {
+    "nationality": {
+      "de": "uruguayisch",
+      "en": "Uruguayan"
+    },
+    "Country": {
+      "de": "Uruguay",
+      "en": "Uruguay"
+    }
+  },
+  "UZ": {
+    "nationality": {
+      "de": "usbekisch",
+      "en": "Uzbek"
+    },
+    "Country": {
+      "de": "Usbekistan",
+      "en": "Uzbekistan"
+    }
+  },
+  "VU": {
+    "nationality": {
+      "de": "vanuatuisch",
+      "en": "Vanuatuan"
+    },
+    "Country": {
+      "de": "Vanuatu",
+      "en": "Vanuatu"
+    }
+  },
+  "VE": {
+    "nationality": {
+      "de": "venezolanisch",
+      "en": "Venezuelan"
+    },
+    "Country": {
+      "de": "Venezuela",
+      "en": "Venezuela"
+    }
+  },
+  "AE": {
+    "nationality": {
+      "de": "der Vereinigten Arabischen Emirate",
+      "en": "Emirian"
+    },
+    "Country": {
+      "de": "Vereinigte Arabische Emirate",
+      "en": "United Arab Emirates"
+    }
+  },
+  "US": {
+    "nationality": {
+      "de": "amerikanisch",
+      "en": "American; of the United States"
+    },
+    "Country": {
+      "de": "Vereinigte Staaten",
+      "en": "United States"
+    }
+  },
+  "GB": {
+    "nationality": {
+      "de": "britisch",
+      "en": "British"
+    },
+    "Country": {
+      "de": "Vereinigtes Königreich",
+      "en": "United Kingdom"
+    }
+  },
+  "VN": {
+    "nationality": {
+      "de": "vietnamesisch",
+      "en": "Vietnamese"
+    },
+    "Country": {
+      "de": "Vietnam",
+      "en": "Vietnam"
+    }
+  },
+  "WF": {
+    "nationality": {
+      "de": "von Wallis und Futuna",
+      "en": "of the Wallis and Futuna Islands"
+    },
+    "Country": {
+      "de": "Wallis und Futuna",
+      "en": "Wallis and Futuna"
+    }
+  },
+  "CX": {
+    "nationality": {
+      "de": "der Weihnachtsinsel",
+      "en": "of Christmas Island"
+    },
+    "Country": {
+      "de": "Weihnachtsinsel",
+      "en": "Christmas Island"
+    }
+  },
+  "EH": {
+    "nationality": {
+      "de": "saharauisch",
+      "en": "Sahrawi"
+    },
+    "Country": {
+      "de": "Westsahara",
+      "en": "Western Sahara"
+    }
+  },
+  "CF": {
+    "nationality": {
+      "de": "zentralafrikanisch",
+      "en": "Central African"
+    },
+    "Country": {
+      "de": "Zentralafrikanische Republik",
+      "en": "Central African Republic"
+    }
+  },
+  "CY": {
+    "nationality": {
+      "de": "zyprisch",
+      "en": "Cypriot"
+    },
+    "Country": {
+      "de": "Zypern",
+      "en": "Cyprus"
+    }
+  }
 }
