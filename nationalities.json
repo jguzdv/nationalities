@@ -815,7 +815,7 @@
       "en": "of the Heard Island and McDonald Islands"
     },
     "Country": {
-      "de": "Heard- und McDonald-Inseln",
+      "de": "Heard- und McDonaldinseln",
       "en": "Heard Island and McDonald Islands"
     }
   },
@@ -825,8 +825,8 @@
       "en": "of the Holy See/of the Vatican"
     },
     "Country": {
-      "de": "Heiliger Stuhl",
-      "en": "Holy See"
+      "de": "Vatikanstadt",
+      "en": "Vatican City"
     }
   },
   "HN": {
@@ -1405,7 +1405,7 @@
       "en": "Micronesian"
     },
     "Country": {
-      "de": "Mikronesien",
+      "de": "Föderierte Staaten von Mikronesien",
       "en": "Micronesia"
     }
   },
@@ -1415,7 +1415,7 @@
       "en": "Moldovan"
     },
     "Country": {
-      "de": "Moldawien",
+      "de": "Moldau",
       "en": "Moldova"
     }
   },
@@ -2186,7 +2186,7 @@
     },
     "Country": {
       "de": "Thailand",
-      "en": "Thainland"
+      "en": "Thailand"
     }
   },
   "TL": {
@@ -2255,7 +2255,7 @@
       "en": "Czech"
     },
     "Country": {
-      "de": "Tschechische Republik",
+      "de": "Tschechischen",
       "en": "Czech Republic"
     }
   },
@@ -2395,8 +2395,8 @@
       "en": "American; of the United States"
     },
     "Country": {
-      "de": "Vereinigte Staaten",
-      "en": "United States"
+      "de": "Vereinigte Staaten von Amerika",
+      "en": "United States of America"
     }
   },
   "GB": {
