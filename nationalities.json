@@ -22,7 +22,7 @@
   "AX": {
     "nationality": {
       "de": "åländisch",
-      "en": "of the Åland Islands"
+      "en": "Ålandic"
     },
     "Country": {
       "de": "Åland",
@@ -52,7 +52,7 @@
   "VI": {
     "nationality": {
       "de": "der Amerikanischen Jungferninseln",
-      "en": "of the US Virgin Islands"
+      "en": "Virgin Islander"
     },
     "Country": {
       "de": "Amerikanische Jungerferninseln",
@@ -112,7 +112,7 @@
   "AG": {
     "nationality": {
       "de": "antiguanisch",
-      "en": "of Antigua and Barbuda"
+      "en": "Antiguan and Barbudan"
     },
     "Country": {
       "de": "Antigua und Barbuda",
@@ -122,7 +122,7 @@
   "GQ": {
     "nationality": {
       "de": "äquatorialguineisch",
-      "en": "of Equatorial Guinea"
+      "en": "Equatorial Guinean"
     },
     "Country": {
       "de": "Äquatorialguinea",
@@ -301,8 +301,8 @@
   },
   "BA": {
     "nationality": {
-      "de": "bosnisch-herzegowinisch",
-      "en": "of Bosnia and Herzegovina"
+      "de": "bosnisch",
+      "en": "Bosnian"
     },
     "Country": {
       "de": "Bosnien-Herzegowina",
@@ -352,7 +352,7 @@
   "VG": {
     "nationality": {
       "de": "der Britischen Jungferninseln",
-      "en": "of the British Virgin Islands"
+      "en": "British Virgin Islander"
     },
     "Country": {
       "de": "Britische Jungferninseln",
@@ -442,7 +442,7 @@
   "CK": {
     "nationality": {
       "de": "der Cookinseln",
-      "en": "of the Cook Islands"
+      "en": "Cook Islander"
     },
     "Country": {
       "de": "Cookinseln",
@@ -472,7 +472,7 @@
   "CW": {
     "nationality": {
       "de": "von Curaçao",
-      "en": "of Curaçao"
+      "en": "Curaçaoan"
     },
     "Country": {
       "de": "Curaçao",
@@ -502,7 +502,7 @@
   "DM": {
     "nationality": {
       "de": "dominicanisch",
-      "en": "of Dominica"
+      "en": "Dominican"
     },
     "Country": {
       "de": "Dominica",
@@ -522,7 +522,7 @@
   "DJ": {
     "nationality": {
       "de": "dschibutisch",
-      "en": "of Djibouti"
+      "en": "Djiboutian"
     },
     "Country": {
       "de": "Dschibuti",
@@ -572,7 +572,7 @@
   "FK": {
     "nationality": {
       "de": "falkländisch",
-      "en": "of the Falkland Islands"
+      "en": "Falklander"
     },
     "Country": {
       "de": "Falklandinseln",
@@ -782,7 +782,7 @@
   "GW": {
     "nationality": {
       "de": "guinea-bissauisch",
-      "en": "of Guinea-Bissau"
+      "en": "Bissau-Guinean"
     },
     "Country": {
       "de": "Guinea-Bissau",
@@ -1121,8 +1121,8 @@
   },
   "CD": {
     "nationality": {
-      "de": "der Demokratischen Republik Kongo",
-      "en": "of the Democratic Republic of the Congo"
+      "de": "kongolesisch",
+      "en": "Congolese"
     },
     "Country": {
       "de": "Demokratische Republik Kongo",
@@ -1182,7 +1182,7 @@
   "LS": {
     "nationality": {
       "de": "lesothisch",
-      "en": "of Lesotho"
+      "en": "Mesotho"
     },
     "Country": {
       "de": "Lesotho",
@@ -1232,7 +1232,7 @@
   "LI": {
     "nationality": {
       "de": "liechtensteinisch",
-      "en": "of Liechtenstein"
+      "en": "Liechtensteiners"
     },
     "Country": {
       "de": "Liechtenstein",
@@ -1402,7 +1402,7 @@
   "FM": {
     "nationality": {
       "de": "mikronesisch",
-      "en": "of Micronesia"
+      "en": "Micronesian"
     },
     "Country": {
       "de": "Mikronesien",
@@ -1471,8 +1471,8 @@
   },
   "MM": {
     "nationality": {
-      "de": "von Myanmar/Birma",
-      "en": "of Myanmar/Burma"
+      "de": "burmesisch",
+      "en": "Burmese"
     },
     "Country": {
       "de": "Myanmar",
@@ -1591,8 +1591,8 @@
   },
   "MP": {
     "nationality": {
-      "de": "der Nördlichen Marianen",
-      "en": "of the Northern Mariana Islands"
+      "de": "nordmarianisch",
+      "en": "Marian Islander"
     },
     "Country": {
       "de": "Nördliche Marianen",
@@ -1602,7 +1602,7 @@
   "NF": {
     "nationality": {
       "de": "der Norfolkinsel",
-      "en": "of Norfolk Island"
+      "en": "Norfolk Islander"
     },
     "Country": {
       "de": "Norfolkinsel",
@@ -1672,7 +1672,7 @@
   "PG": {
     "nationality": {
       "de": "papua-neuguineisch",
-      "en": "of Papua New Guinea"
+      "en": "Papua New Guinean"
     },
     "Country": {
       "de": "Papua-Neuguinea",
@@ -1792,7 +1792,7 @@
   "SB": {
     "nationality": {
       "de": "salomonisch",
-      "en": "of the Solomon Islands"
+      "en": "Solomon Islander"
     },
     "Country": {
       "de": "Salomonen",
@@ -1822,7 +1822,7 @@
   "SM": {
     "nationality": {
       "de": "san-marinesisch",
-      "en": "of San Marino"
+      "en": "Sammarinese"
     },
     "Country": {
       "de": "San Marino",
@@ -1832,7 +1832,7 @@
   "ST": {
     "nationality": {
       "de": "são-toméisch",
-      "en": "of São Tomé and Príncipe"
+      "en": "São Toméan"
     },
     "Country": {
       "de": "São Tomé und Príncipe",
@@ -1892,7 +1892,7 @@
   "SC": {
     "nationality": {
       "de": "seychellisch",
-      "en": "of Seychelles"
+      "en": "Seychellois"
     },
     "Country": {
       "de": "Seychellen",
@@ -1981,8 +1981,8 @@
   },
   "BL": {
     "nationality": {
-      "de": "von St. Barthélemy",
-      "en": "of Saint Barthélemy"
+      "de": "saint-barthélemy",
+      "en": "Saint Barthélemian"
     },
     "Country": {
       "de": "Saint-Barthélemy",
